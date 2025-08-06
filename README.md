@@ -79,7 +79,6 @@ Mgt Records = Middle Class of Music infrastructure.
 
 By Chakravartin Creatives.
 
-License
 This project is licensed under the Business Source License 1.1 (BSL 1.1).
 
 - Commercial use is prohibited until August 6, 2028.
