@@ -75,8 +75,17 @@ If you care about creative freedom, tech with soul, and artists owning their fut
 
 This is not disruption. This is design for dignity.
 
-
 Mgt Records = Middle Class of Music infrastructure.
 
 By Chakravartin Creatives.
+
+License
+This project is licensed under the Business Source License 1.1 (BSL 1.1).
+
+- Commercial use is prohibited until August 6, 2028.
+- After that, the license automatically converts to **Apache 2.0**.
+- See [LICENSE](./LICENSE) for full terms.
+
+© 2025 Chakravartin Creatives. All rights reserved.
+
 
