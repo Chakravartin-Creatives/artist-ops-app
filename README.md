@@ -3,6 +3,8 @@ artist-ops-app
 Built for Artists. Led by People. Powered by Tech. 
 A full-stack artist management and development platform by Chakravartin Creatives.
 
+---
+
 Problem
 Independent artists across Southeast Asia, and beyond, face major roadblocks:
 - No access to studios, mentors, or trusted teams
@@ -11,6 +13,8 @@ Independent artists across Southeast Asia, and beyond, face major roadblocks:
 - Career growth without infrastructure
 
 Millions of artists are stuck in the middle: too independent for traditional labels, too unsupported to scale alone.
+
+---
 
 Solution
 A tokenized, AI-assisted platform where artists:
@@ -21,6 +25,8 @@ A tokenized, AI-assisted platform where artists:
 - Build a career from 500 or 5,000 fans, not just fame
 
 This is infrastructure for the Middle Class of Music.
+
+---
 
 Features
 
@@ -58,11 +64,15 @@ Tech Stack (Planned)
 - Database: PostgreSQL / Firebase
 - Hosting: Vercel + Cloudflare
 
+---
+
 Global Mission
 To empower artists everywhere to build real, independent careers — with full rights, real teams, and creative control.
 
 Built in Southeast Asia. Scalable worldwide.  
 Tech that supports the human side of artistry.
+
+---
 
 Call for Collaborators
 We’re building something bold — and we want the right people:
@@ -73,11 +83,10 @@ We’re building something bold — and we want the right people:
 
 If you care about creative freedom, tech with soul, and artists owning their future, join us.
 
-This is not disruption. This is design for dignity.
-
 Mgt Records = Middle Class of Music infrastructure.
-
 By Chakravartin Creatives.
+
+---
 
 This project is licensed under the Business Source License 1.1 (BSL 1.1).
 
